@@ -1,0 +1,13 @@
+name = "Armor Hud"
+filename = "Armor_Hud-3.0-1.21.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AghHBZC5/versions/nrxWwgoj/Armor_Hud-3.0-1.21.10.jar"
+hash-format = "sha512"
+hash = "c9518a369791b8c2fafbcc10c830385b7f058f2dc9adce6647af780bfdfc5096a42338f61c2d3efd911ff8605081feac5395953d2281a9ed38d9cbcc7b3de266"
+
+[update]
+[update.modrinth]
+mod-id = "AghHBZC5"
+version = "nrxWwgoj"
