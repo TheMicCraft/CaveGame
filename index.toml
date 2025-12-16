@@ -17,12 +17,12 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "5d803700375154c02bfa9e7d3f64b634708568f4d22cd3671cddcd9b3c7d2ab5"
+hash = "d1eb0dbf966090d95b6658a1ded6580b0e2afc73f4bd1d1bff8b9433050068ac"
 metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "fa1d1286d8bc03ae99442535edd1e3c134ea859b861089e21d8b503e7cba4c67"
+hash = "f8805d3902fb3e31ea9e53f684e3d731b5ac7d2fd2507c475fd1f5f4da266a2f"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "bf2fe1ad823f0f3b50605274e759dd308116a3d1d3ea9a64291d2ce1b90001da"
+hash = "be9154582d65247e9ae5e8ac5d11d60f93c2805a544e41ff2890935c31b0f74a"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.pw.toml"
-hash = "3ceeca043fd967760acb5698a1611fa50cd4c1a2bc6419d777a9dc53f30da480"
+hash = "803f004953a737bd130b5c58d55081c6a32cbdc0b4c1f5aed67cb589950bad6e"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "47e38eeda17a991d3201448e71f68081893c8e7aee15b44088dc86eacfc8ca43"
+hash = "6af96fd44a1b26c5ce47829bd11953722a2f58e94d948a6d2285f537c37ca9ff"
 metafile = true
 
 [[files]]
@@ -162,12 +162,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "df5ce30f6ac464f7b06400e03568d2b9087dd1849fd8c21a2381fe2f666338b6"
+hash = "bda12a83dc36c4a8e5b45438700b54bf21c182d923f7f8255570893628281e06"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "ae2060c6233ba1715c06f687148af5b2fbd9ac511c28d653fe2887ad7ecb1fc1"
+hash = "4e67580688464bd3e7065f96da1fba23cc593e0a7eabd8b0522c6d82129fc6ec"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "ba9cdad1c81aa5fbae79686c0eac7daaaca67990f0dd4a6f4ece5def1d17a924"
+hash = "d3d3ebf53454b237e6ac91a6e3dc5fd34bfeefcf0714a11bfadd3e1488161772"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "c5092ec9a074c3afcc2312c985d0829e023dcfa3524597ec1c4902359d5c78dc"
+hash = "2c24681241eb57ca4f02fdb1ec12c4b950f7653e30c00cf2b3e9a36835550ab8"
 metafile = true
 
 [[files]]
