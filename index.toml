@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "8432d8c35d240ecda13859bd8e4db99f6ca230e354dc065c9dd422f785c1d8c2"
+hash = "346a6a8f2346bf457774a7813125fc6cb13d43f387efcb0f02a40e0d87755d14"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "f6807508d3f757d963fec76dd04825ed64b0224907af4671ce0716d0358b2029"
+hash = "64ad73b1dbc5abf825df66dc849d19b1287454c6989f24be37b6064cd836d7d0"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "593a888dbb6fb77e28aea3c29ff8604f3e7287f00846e974d46da04991d2b9c4"
+hash = "637b49dd7ad63a85ad93cc1350d8a91b27329a82113744f1959d904617f461cd"
 metafile = true
 
 [[files]]
@@ -207,12 +207,12 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "438e4acdba47de3009a08ab141a44d604a24b3e32c28e8726c0ce7136b11f31c"
+hash = "37f0bc20da6968667e0f52d6689ed5f32c1d6256765fba4083700aeb42046e13"
 metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "d788235233cd7bb10444760f354161d730ce1c504976cfdf91bd26fcd05c9e26"
+hash = "56367cd00da52b2abd94a1d9abae77521f3db0a9628129b346bf5f75c2fbdd51"
 metafile = true
 
 [[files]]
