@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "8a79edd937e30c8f652b95f47dbe068516ba9a36bcf698066590b0ad9ef9b5ca"
+hash = "c1c7c89ecf39547a931298b0be7a5efa5a87eb088574ae067eb743f172621eb1"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/flashback.pw.toml"
-hash = "544eaa2ff476c609cbfd4487fcdd09feda5f9208f1976bf3ceb4fbe4e3bb0e27"
+hash = "e09e1180a219437bc40eed5cce65b79b16a086468c07ce8b777b28d6d806b535"
 metafile = true
 
 [[files]]
