@@ -66,11 +66,6 @@ hash = "b37ecd626251b32c8f0b692ac57a83d1e1c2b7fe2172ddf0bdec61c573614b26"
 metafile = true
 
 [[files]]
-file = "mods/calcmod.pw.toml"
-hash = "05fe27da92dd8884a7563e6de210a3460226c036fce24e1d07e5cf780d481b13"
-metafile = true
-
-[[files]]
 file = "mods/carpet-tis-addition.pw.toml"
 hash = "f5971140b76f21612359a98991917f10056678d694b2b54a9449dfe67c2e1f96"
 metafile = true
@@ -323,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "16a351dac4db6e5b8035f56090710a227d33482797ef5bcc09a367099304be74"
 metafile = true
 
 [[files]]
