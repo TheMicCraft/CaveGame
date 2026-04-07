@@ -66,8 +66,18 @@ hash = "b37ecd626251b32c8f0b692ac57a83d1e1c2b7fe2172ddf0bdec61c573614b26"
 metafile = true
 
 [[files]]
+file = "mods/calcmod.pw.toml"
+hash = "262616993036070ec268b708a65f29420d54a8fb2fa55dffe6ebaa4169d84776"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "0a30e47fe22de1ce4032f4cac4c894c1b47229185dfee4343509b1f71894a498"
+metafile = true
+
+[[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "41b668058a58b89433763db1f2d193f046cc3ad66087146a2ee59f23223c208f"
+hash = "de5f4115a55d7822d1995fe74efdb24cdbe4a6301991f0abcfe448f9d21fd1d4"
 metafile = true
 
 [[files]]
@@ -167,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "11c608b6ef3ca111e9bccd9c4aeb8c47cf0b1f5db48054abc89d6a5f1a978aac"
+hash = "eade32f35a18be164ad2a2899a2a3ac04452818c52769db8e640804e6057f1b2"
 metafile = true
 
 [[files]]
@@ -212,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "94d7bb39b8ec02e47d319222db23c6d57da2a4ce9195e111f9822f40fefb299f"
+hash = "42a2eef2edf51e4c038ae6f9de8b24745b2516146cdb79b0e7917f83b54c7468"
 metafile = true
 
 [[files]]
@@ -232,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "ea89277e095f61f86592bac8b8cad7835bd1e05e6924e8c97fa7aa3e568eaf5a"
+hash = "fb1dd2522c64edac0b8f28d0b6e66294a27ae442735c105312e779c5a892bb08"
 metafile = true
 
 [[files]]
@@ -242,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "61a707b93264a0f4339d168ce3d63d4dfcf6748d2ea71c2f032f2b68eb30a355"
+hash = "32d5fa474ab7b60acfa09094744542fd8215bace6d90904ad7a188a04eb472e5"
 metafile = true
 
 [[files]]
@@ -342,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "1a46fc1461381334dc18d4ec2bf9368d2aeb97c83eaab6ccf85ccf515497ebd0"
+hash = "092ebf2a18d3f4ebf3d95d2efb9282b0fe13673eff1d20e092fb22345785e3d1"
 metafile = true
 
 [[files]]
@@ -387,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "96af760f1cfeb1371b8be2989d63186e632372db6da09ed587b36f454721eeb8"
+hash = "f662d6e7fba9ef5663eec98c4c9a4c4cbc8b51890b8868cec0b5f2435af17293"
 metafile = true
 
 [[files]]
