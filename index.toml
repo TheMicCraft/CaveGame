@@ -66,11 +66,6 @@ hash = "b37ecd626251b32c8f0b692ac57a83d1e1c2b7fe2172ddf0bdec61c573614b26"
 metafile = true
 
 [[files]]
-file = "mods/calcmod.pw.toml"
-hash = "262616993036070ec268b708a65f29420d54a8fb2fa55dffe6ebaa4169d84776"
-metafile = true
-
-[[files]]
 file = "mods/carpet-extra.pw.toml"
 hash = "0a30e47fe22de1ce4032f4cac4c894c1b47229185dfee4343509b1f71894a498"
 metafile = true
@@ -393,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "cb61bf2f9e33b69b733489b7990de70ff3f4d4092d64074797fb2fdfa0cb5090"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "9ce3767540efbf35e0a0c266040c9879efc9136ec59cd38e06e45b3c3c3e90e0"
 metafile = true
 
 [[files]]
