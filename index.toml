@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "6932ffe04ebe5f86c43b8afca22824e193ec082750e87933e293dba4e6f22504"
+hash = "e8098c1c7cd6bcb3d33af2f7a5110b499efe26c3be6a3eed985c04dc8e980cc7"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "3768141d0bf4d655f2df823b39997d171f1d3950d1f00f7bbb78df82a6a26d4e"
+hash = "58e348bf5ed0c9867339046522042c351b1630ccbfeb15412d938bacfb84b054"
 metafile = true
 
 [[files]]
