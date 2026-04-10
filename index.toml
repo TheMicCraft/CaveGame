@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "505495c5e88e1e9c21c413da9734a8d70a93090d644f926e68322c2c4705a65a"
+hash = "90b11866c2c097195b6f8d46a803508328ecf30a78b891095f1fc76d6224772b"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "092ebf2a18d3f4ebf3d95d2efb9282b0fe13673eff1d20e092fb22345785e3d1"
+hash = "2eecfde12159410aa97c09f4010cd18229460c0442ceeeb162b8eeb7fa5ffae4"
 metafile = true
 
 [[files]]
