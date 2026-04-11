@@ -126,6 +126,11 @@ hash = "716b671d0b15ea17c788c571620eac83207bb2b6e8dbe0d33319838478f21efc"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "e43fda06d2c7e68de6ddf4b1b9866ffa5574870a86752cb5e5b70bce6c9511ae"
+metafile = true
+
+[[files]]
 file = "mods/entity-view-distance.pw.toml"
 hash = "22f0b3176222e016bf7b310c400b0b6ccfa61f5021d652def66e561032feaa5d"
 metafile = true
@@ -133,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "e8098c1c7cd6bcb3d33af2f7a5110b499efe26c3be6a3eed985c04dc8e980cc7"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "5c54f35f81fc74beac918d2656ce0e84dc91f957c401b382d598a17d5fbf82dc"
 metafile = true
 
 [[files]]
