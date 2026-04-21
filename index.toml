@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "de5f4115a55d7822d1995fe74efdb24cdbe4a6301991f0abcfe448f9d21fd1d4"
+hash = "7f7d90d5fcf0c0557308120599c1fc278c0de52a81a7b8f71f76c696693481ba"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "e43fda06d2c7e68de6ddf4b1b9866ffa5574870a86752cb5e5b70bce6c9511ae"
+hash = "2a5bb7e8e7e13ba852c3846d108e70d748a123f67b9c2dff62b6a91e7ac44d43"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "5c54f35f81fc74beac918d2656ce0e84dc91f957c401b382d598a17d5fbf82dc"
+hash = "b6beeef9bfbd950110e02332b11423d3754ea0ed2ac563cde20d4c7c1851be86"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "58e348bf5ed0c9867339046522042c351b1630ccbfeb15412d938bacfb84b054"
+hash = "50b89f1bdbcbae7bfb7b660a797a19a946b311a4764a78bd6ac289593aaaa4b9"
 metafile = true
 
 [[files]]
