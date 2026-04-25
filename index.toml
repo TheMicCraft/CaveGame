@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "8a79edd937e30c8f652b95f47dbe068516ba9a36bcf698066590b0ad9ef9b5ca"
+hash = "ee6ae14a9ec8a2c03abd24a0de85be292c533f0f7af372bb9f277e534848e657"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "ac3965d56a65e8c4f1fe4edaa37e55d68b9c4574557bc41798bcd646342a1bb2"
+hash = "e9345014ab938c929447b4f426a184e479f071da7b3a73882624e8beaf092f01"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "c5cf55b4ec0c694443ae7769d9d96b7ae69aef8a94e7d74f884014b7f5102234"
+hash = "3750aa5e0f26b0a27ccd97ca1bdd38d05607789d24320e4837a8c128428eb070"
 metafile = true
 
 [[files]]
