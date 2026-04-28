@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "7f7d90d5fcf0c0557308120599c1fc278c0de52a81a7b8f71f76c696693481ba"
+hash = "e2aae1833f7571018d56656b21163dfab3429aeccf3b9ab740531f5d46cfa114"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "2a5bb7e8e7e13ba852c3846d108e70d748a123f67b9c2dff62b6a91e7ac44d43"
+hash = "b8216791d2cda16256bfc049c9492476f0ceacf4c2c2333208dbb9350a8648ee"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.pw.toml"
-hash = "5c2abb405aafd8eba3698b940e1626fe12f12d0e5c998222f341cff1f89b6854"
+hash = "4a596d0f997df9afddcb3deb6a3daf9de47bee4c185cbeef9ed5079b35d7452f"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "42a2eef2edf51e4c038ae6f9de8b24745b2516146cdb79b0e7917f83b54c7468"
+hash = "87035b9d2b51be1f3828a85746350ade4ddae07dc6a2df2a03676d33ac4dde11"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "fb1dd2522c64edac0b8f28d0b6e66294a27ae442735c105312e779c5a892bb08"
+hash = "351d586aabd1993a34ad855778ceee464937a70746506aa18cc82beaf7f9a21b"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "32d5fa474ab7b60acfa09094744542fd8215bace6d90904ad7a188a04eb472e5"
+hash = "33838027d34e8c563a429092e396d4b0bd4f5a2396212793a5f4cc6aad6a9331"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "00b7276f2a477a1b82dc7d080ca38770d8c33067c2528d328a29ba95593e0c65"
+hash = "1c6560e2fe3f2f0379a5456d9c3e2f1c25b56fd1268d3b980384d23bdc574c12"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "7e5ee84c0ffd1d2a8ac5b05bade2a27fdc2e73caa431f7860ec440e904c66ae0"
+hash = "6930417928f17fae1151a5e4c5ed439c032fa8163a0115e5b0df2993cedb547c"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "cb61bf2f9e33b69b733489b7990de70ff3f4d4092d64074797fb2fdfa0cb5090"
+hash = "c995c55c7ea92d577fbcc5bb40ef481b715e993dd113ef597943ab7bcfef0ce6"
 metafile = true
 
 [[files]]
