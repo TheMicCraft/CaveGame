@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/flashback.pw.toml"
-hash = "74b01cb3b55ceeb544f57a8bc8639a656ec25241b4958f6baca963316f8e092e"
+hash = "b2c53aed3289306764df0306664a0dd896599ced6402a5024b6063f761e85505"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "32233f0c965a0f28c6f049f035b8bc62ebca4cf06ff9ac6938d202a3e10aee28"
+hash = "cc284ef0dc8b750d5eef6b8c968ff875da2be78b936784d43c2d19c5ec5e745d"
 metafile = true
 
 [[files]]
