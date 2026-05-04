@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "ee6ae14a9ec8a2c03abd24a0de85be292c533f0f7af372bb9f277e534848e657"
+hash = "e0c78a0644ba61bd108441dff336047a9c16fdb19757e68ab21103b3690dade4"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "87035b9d2b51be1f3828a85746350ade4ddae07dc6a2df2a03676d33ac4dde11"
+hash = "ac318bf9665269c3010bc2370dccca8426000b61d5e9ea5e1ed742505eab83ec"
 metafile = true
 
 [[files]]
