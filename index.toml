@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "b8216791d2cda16256bfc049c9492476f0ceacf4c2c2333208dbb9350a8648ee"
+hash = "f548d2cbcde539f2ee6936dc1d24896c440a26196bbb5df9e3f3d5e4b3940901"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "50b89f1bdbcbae7bfb7b660a797a19a946b311a4764a78bd6ac289593aaaa4b9"
+hash = "cc8336bb1ef64b24d27562f7ef09f2e5d43ee83e47681276bdf1f374092d0849"
 metafile = true
 
 [[files]]
