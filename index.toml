@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "1c6560e2fe3f2f0379a5456d9c3e2f1c25b56fd1268d3b980384d23bdc574c12"
+hash = "930bad07a8fc4699dec1eb54f5e4f94e83d0fb01e68a286f86ccd949bff3975c"
 metafile = true
 
 [[files]]
