@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "b37ecd626251b32c8f0b692ac57a83d1e1c2b7fe2172ddf0bdec61c573614b26"
+hash = "5876cbd9fbef48b85666f7afb43f046d2dd7beeea46c92b9c93004f4665b6fa5"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "df793c1fdb37685a70245ab0ff4d3282203227ff2faf7a8607344fb1f45b8c0e"
+hash = "f224e1c983b97f980d04776d9d38a70aabf66f62fcdf2d4d4a3a6304130be9d9"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "5dc8ece7438466ee28c13c4446640f3d71e84964881f671ad648a32a8ef3f449"
+hash = "1affcff3b4cdb3dcb273844fa2b3015c7d4872ac3f380ba0032cc335d608ddca"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "c68de6b0ece1c837b3bb96c70d49e8aa99111f4d281ac33306362e6f6452048b"
+hash = "c2fd2486179a29fe50b81f09135cddc61b6553ec82780f37864b3d7b5ea95560"
 metafile = true
 
 [[files]]
