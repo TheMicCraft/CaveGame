@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "e03153de5a73e99125c2910a480189eb4b1fa2cca3237c4be72fab248a82516f"
+hash = "1589b31198d51ded00c35a14487e4ba28b5f68133e1dbaa54c5081b3db4818b6"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "e2aae1833f7571018d56656b21163dfab3429aeccf3b9ab740531f5d46cfa114"
+hash = "1e0bfd859837201e316d8e11d86ef5830a0b834897ec917d3bfb70e9da6fd993"
 metafile = true
 
 [[files]]
