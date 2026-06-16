@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "90b11866c2c097195b6f8d46a803508328ecf30a78b891095f1fc76d6224772b"
+hash = "8239e157127e07c15d971aa9b325534c7c932eb10c74d3e4a68b88846334b069"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "d5caf2cf95a60330abe8dc2a0783a94838314f26ae06303294fc790d1b9fcccc"
+hash = "b6039fb2688b5d6f2ae8a950f00c46d692866d2ecb57f372a79a05d7c3d9656a"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "6747f2e71e6d9ae5b6c4aea899f6af5fbbb612aac8c9bbb45990463826af3398"
+hash = "6fa3b94539d3b97477b160d3b552eae3945445cdc0dd243898d4316977e2ad43"
 metafile = true
 
 [[files]]
