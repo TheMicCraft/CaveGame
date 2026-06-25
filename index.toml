@@ -71,11 +71,6 @@ hash = "0a30e47fe22de1ce4032f4cac4c894c1b47229185dfee4343509b1f71894a498"
 metafile = true
 
 [[files]]
-file = "mods/carpet-tis-addition.pw.toml"
-hash = "2ffaeaa0eb8374f72875d0c766c976dbc6ca81838c59b42ceec90147e2c8f3b6"
-metafile = true
-
-[[files]]
 file = "mods/carpet.pw.toml"
 hash = "fbb61854650a7cdf7eb2244e0599bae2f0541864a9b7cf74f8272972e6bdb18e"
 metafile = true
@@ -367,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b762f7010388dd7cb1f98ef316217952528a35fe818ff3a12be0975e3c9cf0e1"
+hash = "9404aa71aa027cac3e354b8d3e8c05f6fa2defe7ced3d99cbdfbb5a35627c15b"
 metafile = true
 
 [[files]]
