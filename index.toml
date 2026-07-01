@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "1589b31198d51ded00c35a14487e4ba28b5f68133e1dbaa54c5081b3db4818b6"
+hash = "a548a3c371952043c58a0e09c9ca0a2343e7f989bd210a5a20204178aadda9b1"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "bd1545e020b572bbf6861b673edddabf0487b160d7259c925553ae3349f46b86"
+hash = "640e68db872fdc6d16d20c0d5903ceaaa83333444d2d884d145c5a93881f02b0"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "1797e695d72780eee580940aecd5d1e2a0203ade27b9b0c78975944a3122721e"
+hash = "84fdc3f1c74ee537395d2c2793b86e4a7fa900843b2a90b8cd01ef061df05da9"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "9e7bacd24307639764f3b74ae35a562b6becf2701637b816de0eaae15ab714c0"
+hash = "9cb9fbb7431ed58a8bb7bf25d1b9fcc8706fc57400db7acffef06e25971552fa"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.pw.toml"
-hash = "bb53d6fce89f8f986a049f95b4e30b1d3587f2a94e01698e78d7b8bf38846dfa"
+hash = "c3ab7c3f39a8be840672c6ff5e5c97e161729513d6a92718c091eea6e4405245"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "8e8db014173342b123058f74d88459acdac60b8fc4f2026c115732a8e2eefb0c"
+hash = "e06c511605c76ac6ec2401bd31a47f93c4410ac75c65262c0988363d6b56c5dc"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "e8fd9060822f10655250957935c00ca7f7e629a1c106c515e29a23c455c98d6b"
+hash = "7f598fc879a99bd82787c8e268d85a935b78c6e6e93ce1c77bb9d498196cc93c"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "f2bc6b4485a14545ae00c001468c0c7aecf77c7256c8ca8602fa905149acbb94"
+hash = "dae9980abe4fa486290dba8800105baf99c1ca114329bc51c8e2643948960681"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "f5e69bd9d5ea4c4cad4f35e127d64aad7dbc0e5c23525aa21a6f1cdc4360b5aa"
+hash = "ac5d6ec850236c1493f468c7c0e2c692a0b56d34a48116b7641ef6a14c9f1e6a"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "986e43ff06d2a79effec6e219aca063d7b53a98096c5f63983f23cf54c11c7e5"
+hash = "5008b709220bcfc7b41402bd7d8fe580edcc4168299f04746d2c596a809ec046"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "abbf07e2753083e766dbd3b8d2a05e96b7f241a8cebada1ee5d48b9b79bbbef5"
+hash = "9f39a0a1bc18fd4e6f30339b4a78248f372b9b807254b85015ab1c9b6342ff63"
 metafile = true
 
 [[files]]
