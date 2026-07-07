@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "095f321e2584f4aebd85b77c5944b17e78fd98bcf809394718354cc4968ab367"
+hash = "cd968fe7fad135441a8c9917b7b95b45d5121d9b00b21441da326a470a76131b"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "e06c511605c76ac6ec2401bd31a47f93c4410ac75c65262c0988363d6b56c5dc"
+hash = "c9740c02e1261be9e02ae118c37d6a644766db53d6ff4024a5027d0755d2552e"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "7f598fc879a99bd82787c8e268d85a935b78c6e6e93ce1c77bb9d498196cc93c"
+hash = "e9f1937ba20ab4192d0277ded9a1cbd12f21bbd52a21c887204928e772071860"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "7924461f13c2acaa2870bb404aa5caca25cad8122e280d0d48a06fd9944e195a"
+hash = "62144ba5ef95792de9a3331bd7aeda24057eb21514fab45f1d5bcd167bf5152d"
 metafile = true
 
 [[files]]
