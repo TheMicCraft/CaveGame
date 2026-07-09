@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "90d82e31f389e2cda561a94996fb19e915c3406d4b8fd1b711b23e15cfb139db"
+hash = "d9e6006831980ad823925425d1791024bc519ac6d5daae0c2a822214a0086711"
 metafile = true
 
 [[files]]
@@ -412,10 +412,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "c23e757bf7e54ca4cdb8921b957ccf5536f2a4f99a83ddd4171373943f96b489"
+hash = "91812de40c5225cb0c8331bad2cb2826e72e664f65b60705a98e24c5d335eb0c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "0e8bccb35ab4e5f17055ab9ef7d45ff21c44e35fc1871950e56a2cc609b0a8c7"
+hash = "d23ee6590e47dcafedf8ec36a3258ba3f88337261448fe2dfe9b83791d33b4e3"
 metafile = true
