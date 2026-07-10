@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "c3069d6c3ef1d13c9ba064824777c4d74dd504cad358cb0b6f06f6266fc143c8"
+hash = "04161fe0dcb23469df8b66dba353592f0e5c4ea4f64b2f7a1636033ccdb9e351"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "5c50f0b59258b651e04fbcdf01c25d4160dcdc3b8e225108761d7e4a6f479ec1"
+hash = "6201f23c8b8fd8a8b7cae051197688cf9ee894ae506a94a63d022985240a31f0"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
+hash = "720bb2b33170f46ae5cbde5ee0d00284c592eb1fdeb8ae2de19d02d26f5f03a6"
 metafile = true
 
 [[files]]
