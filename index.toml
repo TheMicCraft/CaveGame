@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "d9e6006831980ad823925425d1791024bc519ac6d5daae0c2a822214a0086711"
+hash = "0a9415969bc0a86f09ec24bd99f2b169be4adb9c8b3d1f76cf4afbebec01d191"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "4d296ccb546ccbed5f1850f3058b2fde6552132912420509d6802016b76f01e3"
+hash = "2785ba5d979ac4f95421a3df7b54ecf2a10e616eb566769388e643a5e91f396b"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9404aa71aa027cac3e354b8d3e8c05f6fa2defe7ced3d99cbdfbb5a35627c15b"
+hash = "723a13737a51aa682f385ede7e4bfa925b1dfb435436ab2f69dc25c4be1b2c04"
 metafile = true
 
 [[files]]
