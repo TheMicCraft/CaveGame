@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "5e097f95b8818e0999b4e867351745441f90c9bcf2a9c68cd19d5d708da4a4a1"
+hash = "f42e7c3e161d7734855264b73af110541eae4f83495f1c63ce31db31f1b6b1f6"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "c9740c02e1261be9e02ae118c37d6a644766db53d6ff4024a5027d0755d2552e"
+hash = "d8451a8ee63419d593ce4bdc0781876fa6c266b8e09eab042a0f55cde331bd31"
 metafile = true
 
 [[files]]
