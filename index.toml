@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "84fdc3f1c74ee537395d2c2793b86e4a7fa900843b2a90b8cd01ef061df05da9"
+hash = "339f219f17d7bc5afcff30299a3cdb11a33cfce1c69046f1c98ab65c6c1f62f2"
 metafile = true
 
 [[files]]
@@ -412,10 +412,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "91812de40c5225cb0c8331bad2cb2826e72e664f65b60705a98e24c5d335eb0c"
+hash = "451a288088ea13f988e0e7bbde541f5a10dbf41f4fcece2f319043299a6e4ba0"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "d23ee6590e47dcafedf8ec36a3258ba3f88337261448fe2dfe9b83791d33b4e3"
+hash = "2f36f504518f23cb36b32dbbd874f3b28b8bb23a79348b1187b5e8709b679e13"
 metafile = true
