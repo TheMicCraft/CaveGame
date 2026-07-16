@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "b3f93cafcd333c922608bf758cd31665195fe6f0949fb3cd06ecea87866aceee"
+hash = "4947fc3e0e1b8da95b948bf3a30a02846f9df78820027aa79940a11305b1da8f"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "37a9ffa6f8e045227cbd814a4cf14959729be3c4e7ab7331ee3a1402540264a2"
+hash = "a759f7a566a2b4626920f49887d37ed6bae3bc94f99d398c4b2229759d8f4f01"
 metafile = true
 
 [[files]]
