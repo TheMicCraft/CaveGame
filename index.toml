@@ -147,12 +147,12 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "45a0a7b34abe2dca3a7279bdb3bb0c2eaeb690eeb439cb7bc86f23060a6e6054"
+hash = "a5bb87919e3875bc70c8fb92459115d1cad1d67f59cefc7c8e594130df74737a"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2ccce9c28059ea90a5457771de06a69b0a2d1f06d48f8add48a38f1a2307da3c"
+hash = "2f5c506d2812eadb4cd6ce2286dc2aafe8a21046d2c1f584a75ca90ea5bd3eeb"
 metafile = true
 
 [[files]]
