@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "4947fc3e0e1b8da95b948bf3a30a02846f9df78820027aa79940a11305b1da8f"
+hash = "4059a6a1a733c65f24998221c5c965d85db4c0135d1d2206f6b8ece1e7cb85b4"
 metafile = true
 
 [[files]]
