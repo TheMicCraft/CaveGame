@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2f5c506d2812eadb4cd6ce2286dc2aafe8a21046d2c1f584a75ca90ea5bd3eeb"
+hash = "0c2a00cdbcf84f32ed8c6232e94cadb586bf1280d6b922818db808c16c6d8a77"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/flashback.pw.toml"
-hash = "b2c53aed3289306764df0306664a0dd896599ced6402a5024b6063f761e85505"
+hash = "c47db39006faf1243e0bfcdde56ccf335c4fcfb4b9158a6765abf5920d9fb562"
 metafile = true
 
 [[files]]
