@@ -1,13 +1,13 @@
 name = "TweakerMore"
-filename = "tweakermore-v3.31.0-mc1.21.11.jar"
+filename = "tweakermore-v3.32.0-mc1.21.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/GBeCx05I/versions/2HHoyOkn/tweakermore-v3.31.0-mc1.21.11.jar"
+url = "https://cdn.modrinth.com/data/GBeCx05I/versions/vP7dAYEf/tweakermore-v3.32.0-mc1.21.11.jar"
 hash-format = "sha512"
-hash = "a6068a03ca2ec24857ec23db53d80464d8ccfa25b66de3f4b1da30027d11f3eabc63d7fb7bbb14cb0a72c103efc44a6b6ec2a0e3874be03c300506177fdfb29f"
+hash = "aa44e861201472b332349a39caef2cd5a28a86f65c09603072e4657c5a7d544032a16e2632a105aab2986c3c3c8260dae61e15243f9cfdd0fb657dc534613218"
 
 [update]
 [update.modrinth]
 mod-id = "GBeCx05I"
-version = "2HHoyOkn"
+version = "vP7dAYEf"
