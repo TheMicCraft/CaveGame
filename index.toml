@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "5126ef9b2999ab3e5d6b24d2a4792756f63662b74b094e587efbef8c6e4458ab"
+hash = "13ce1e1f341230ef4a1248e28df60fc604fbfdded7fc08118e83ce2d8e0e864b"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "da5a3ac3a6512bd103467c6bf1731ae646edd1645148b775ec81f8db972db959"
+hash = "a6718e487d252a52e5c7f4e5979661d4a4dee89ceab1dd0204805a65f48631e4"
 metafile = true
 
 [[files]]
