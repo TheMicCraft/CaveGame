@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-restrictions.pw.toml"
-hash = "467eadd218b315067bd37e3af44d7719f77045cd6d3059bbf89e2ee7ce6b8e4f"
+hash = "01e0f50f3f14ea55ee27948df30487182c28d980d620a08a18a094cb157b63e0"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "b3274b6b4ca1172d2730c4f999b6ad3fe19cb59caeb6ac282b20c3eec78f9492"
+hash = "41e4a8c9132a96c3bc4537d8bce04052e4835a5173569760a8567b0546a0a152"
 metafile = true
 
 [[files]]
