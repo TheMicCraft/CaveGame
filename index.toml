@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "d8451a8ee63419d593ce4bdc0781876fa6c266b8e09eab042a0f55cde331bd31"
+hash = "855558a818dc7ea40726d451be098aa118044e885d64232bde79a4390be669b4"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "e9f1937ba20ab4192d0277ded9a1cbd12f21bbd52a21c887204928e772071860"
+hash = "35d57afeee92ba8d6c49639188a9a9bcc7138a460e0bafeae83e1035d265ac1f"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "dae9980abe4fa486290dba8800105baf99c1ca114329bc51c8e2643948960681"
+hash = "998d43bf580f7d1092fee9e640d6b32a3e607149f26392e4a4cf64d05737411d"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "41e4a8c9132a96c3bc4537d8bce04052e4835a5173569760a8567b0546a0a152"
+hash = "744ba5da505c27230d32ee5098c8b624b405cc6676eef813c26597ecd27a3b4d"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "62144ba5ef95792de9a3331bd7aeda24057eb21514fab45f1d5bcd167bf5152d"
+hash = "349961eea5dc40c02e1bd8bf9a0d6d59e40409a7c3017dc6ed39a60d2b1923d4"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "9f39a0a1bc18fd4e6f30339b4a78248f372b9b807254b85015ab1c9b6342ff63"
+hash = "020b7df669f3c82c7f011c9beb3b98bf6de8a242b104f7130e766fa0949ab3db"
 metafile = true
 
 [[files]]
