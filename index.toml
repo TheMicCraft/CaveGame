@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "44ac108683a01428a7f83a92445ee948768d0ff7cf7083647327053762049974"
+hash = "8a081f8f059072f714265fabc754f8f8aeac9628cb7e5391932d25127d4443b1"
 metafile = true
 
 [[files]]
