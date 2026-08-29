@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/flashback.pw.toml"
-hash = "c47db39006faf1243e0bfcdde56ccf335c4fcfb4b9158a6765abf5920d9fb562"
+hash = "d74d8c495e7e86611b7ed9fa36c442494c9355659d9e6abe72366f3b52b13c7b"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "a41b11b0c3d8f43122b98ab7fea430e2b61186a8fc55edf87bf457f30c0702d7"
+hash = "6c8575610994168a7c23eef1022c5bc11e69f16ca297a9e0f67d830258fba21b"
 metafile = true
 
 [[files]]
