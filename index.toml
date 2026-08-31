@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/armor-hud.pw.toml"
-hash = "9bb1642e190ceb5f2dc553400c7c56cd27c3ec585b330cba742d5328bf470f7e"
+hash = "a298490e6edc74b793171be347c88a3e18f0268a253aded544f93cad4dcde624"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "96fd8897a9216f862e9c07fa7ce16505a649675eae2dda97d53acbf0fae63dcf"
+hash = "0936cbea8eb6af3900de9552c9ea479512c190a003b11d994e44a4b6bd950816"
 metafile = true
 
 [[files]]
