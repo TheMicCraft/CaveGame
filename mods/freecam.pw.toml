@@ -1,13 +1,13 @@
 name = "Freecam"
-filename = "freecam-fabric-1.4.1-rc.1+mc1.21.11.jar"
+filename = "freecam-fabric-1.4.1+mc1.21.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/XeEZ3fK2/versions/iCFUntbJ/freecam-fabric-1.4.1-rc.1%2Bmc1.21.11.jar"
+url = "https://cdn.modrinth.com/data/XeEZ3fK2/versions/55z2tEpa/freecam-fabric-1.4.1%2Bmc1.21.11.jar"
 hash-format = "sha512"
-hash = "5228e949b3437e8e3ad20b6831cdf4b46c1ab74b641c4166484248d381a3f30a174163665c5543f8f4b466cb31b5f12da639af46c2194ee17e87f853d69cce7f"
+hash = "87f2cc32c1d86a49dfd1545521ee80d9b72748dfda5b7b4e2780f5945bdac7d0cbf5b4f325708bbb2a9bbea466545910c3a352d0f6d77b64657ae976fd24b71c"
 
 [update]
 [update.modrinth]
 mod-id = "XeEZ3fK2"
-version = "iCFUntbJ"
+version = "55z2tEpa"
