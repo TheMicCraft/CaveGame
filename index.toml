@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "e0c78a0644ba61bd108441dff336047a9c16fdb19757e68ab21103b3690dade4"
+hash = "2bb89773391d4cd92114a958cb6fac601b6b609a72b06832766842a198052791"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "f548d2cbcde539f2ee6936dc1d24896c440a26196bbb5df9e3f3d5e4b3940901"
+hash = "7013a52c11d8e14336ba2e8352b911aa79c306c6cce1ca3c543c93576e773a15"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "b6beeef9bfbd950110e02332b11423d3754ea0ed2ac563cde20d4c7c1851be86"
+hash = "c0848df7df877f3717e64bc97a799fabbb6277226481bc0dceb4116ac0b99fa3"
 metafile = true
 
 [[files]]
