@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.pw.toml"
-hash = "c3ab7c3f39a8be840672c6ff5e5c97e161729513d6a92718c091eea6e4405245"
+hash = "9329ed137a6c20303ea10e871e7138a7c43efd972435bcea41391bb6a8aa4c05"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "087d5032dacba652d926527ee8fb2a4f85cedcb9bc0706cac6e1c4733b1be594"
+hash = "14cea37aa8a860a8f5fd8f1df4ae79ea9b81a2744e89bf1d94676efb04033e1b"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "42b7626512aae16b6a20d9af980490ea4019a528e1f72b291c89b86d5b0e5d2a"
+hash = "3f98b8818a028223e2f1fe07b0f4e1afa873aafa28770f6c7a275c57d2f50f15"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "b6ec043f94e20f9e6a4d742c2efb32e99f3c2aa86accf77cc4a51a017e938765"
+hash = "175fad0cfd06f64bd9bc69158253d16813d3bb144356247d45c21426389d05e3"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "2cd854e0221db21b3fb901645f60da635192db4ec50d92ef9c6b606094212d37"
+hash = "1d6c58f07dae51df08dd2142e8f61e9f96585a4e1e2baafc8b8d05d0616988e9"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "fe5c737a7a9b5424ca4dda89a5bd15a1fbc21889c64953e98f62aa1830a50b3c"
+hash = "6e8067b0cbe5bf8b6c62cf499746ac1f6bfc66466edf92a42218d7f892008004"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "31f13c0b6cbd61cc70706e4dd6a015e321713a8516e824522ae0f92ba0f15fec"
+hash = "d1d6dbf44205443a6261bff97bfda245737db75e90dfe884a90c548871505342"
 metafile = true
 
 [[files]]
