@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.pw.toml"
-hash = "9329ed137a6c20303ea10e871e7138a7c43efd972435bcea41391bb6a8aa4c05"
+hash = "b7c3501741e1470e0955419d4b629042e67cbb09e8cda5f08fe403e5b1c69b5a"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "d1d6dbf44205443a6261bff97bfda245737db75e90dfe884a90c548871505342"
+hash = "5edd76687dda7b292c8c0d555c5b9b8e0f713715648d41286bcf37f4b1958798"
 metafile = true
 
 [[files]]
