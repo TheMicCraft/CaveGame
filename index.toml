@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "32c1a6b38fd33ded4137816821ebf7c82a107860c4556f94d96b8993fb2d4b07"
+hash = "60e3b492a3c248c449df30be2cf4132c32b5f1c271ffcc26227e5199ff4d0ac0"
 metafile = true
 
 [[files]]
@@ -182,12 +182,12 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "802230d1215274fe8836a4b068a8472697f45edd76f5b9d1a69a89f30e11b95e"
+hash = "b085a4a48736c2ced3818372588d79ebe4e72613d1cdc2fbbf5a4ade3cde3ccc"
 metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "baa7d65c931adc7b1befd939cdecf12bd789f62339dade5e235afe0940907890"
+hash = "69ccef6ee5daf3f0d301ae1b7282b4cb732839d66582b81f1bbee9649023761a"
 metafile = true
 
 [[files]]
