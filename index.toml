@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d40adfe757d9251a77997234ca459284b636fe3a29db23ad3e2c3eebb28326e2"
+hash = "d3d5c59d09d1beffe0d1d396e658497ae936a90aa278791de5f2871a9dae320a"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "72b9dcb36b5cf07f1cdbd970ae4f2dc04d86c973d790e7c76de26a6ce8cd6b58"
+hash = "868306a894a7d7cbb9a3109f2b8d11bde1329c6da38ea179c93605247d613978"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "c1fb6ffc539fda1aa49474e642125595b10de61d6ba0951e32718ae93909eee5"
+hash = "632401a5817c23098eb339392df7988f28db2502cd367c5c8b19459c5fb72765"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "b085a4a48736c2ced3818372588d79ebe4e72613d1cdc2fbbf5a4ade3cde3ccc"
+hash = "7a19dbd5f757f91e6170bed5bdd055046a5ff97c50bd910f4b9a377e4d257621"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "2785ba5d979ac4f95421a3df7b54ecf2a10e616eb566769388e643a5e91f396b"
+hash = "03bb608f6258ed84c472de82bc53c6e1ca61d2950a2fdb82b7120df1b3c1b083"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "3c5cbbf4755a6a7c0f4f61a243dc6198674f9e2e72faf7d30cc45a3bca3f28a8"
+hash = "88575cfa88a3807c29978322ad07f01209996ba1823035bad7af8e74a7df9159"
 metafile = true
 
 [[files]]
