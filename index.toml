@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "18b6fb7674e9f1beac9c29feb5f043699476f3ee0453f176cf689f3f39710144"
+hash = "bd6a99db43d7ec9e2e64438cb415fe0454164cfd386d2f07d7ff4637353d0521"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "868306a894a7d7cbb9a3109f2b8d11bde1329c6da38ea179c93605247d613978"
+hash = "43a1f83df45ae9c02ce16eaf0b70e3581704104bb22d5c44980f68bb25150917"
 metafile = true
 
 [[files]]
@@ -142,12 +142,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "632401a5817c23098eb339392df7988f28db2502cd367c5c8b19459c5fb72765"
+hash = "b3b746f57ba216c7227a77517b648d82176c6c4410ff1423345786f26c99925e"
 metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "60e3b492a3c248c449df30be2cf4132c32b5f1c271ffcc26227e5199ff4d0ac0"
+hash = "9cb1e4340924825f762e02955ca6bd82aa8ef92d16e929272275b77266ecdbbf"
 metafile = true
 
 [[files]]

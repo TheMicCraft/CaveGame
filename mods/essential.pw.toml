@@ -1,13 +1,13 @@
 name = "Essential Mod"
-filename = "Essential_1-5-0_fabric_1-21-11.jar"
+filename = "Essential_1-5-0-1_fabric_1-21-11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/l1pD4w5Q/Essential_1-5-0_fabric_1-21-11.jar"
+url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/6sZzbHVD/Essential_1-5-0-1_fabric_1-21-11.jar"
 hash-format = "sha512"
-hash = "814f1caaa7e64ac2be4320a7550457cdae1f32facdb54573a5d3edcafe696683bfeb1c11c94aefaa24f0ad32e836016eaa84d0086e0162bec2122cd9d50830f7"
+hash = "acf7777baee2b78abf0a4d42b5157a617db2f437f6de2afa6c55f89aa0b549ce2fa2e6c8ca545b4162377cf2a265f29430b0b8b9058c5dba0d3d3c460679d315"
 
 [update]
 [update.modrinth]
 mod-id = "k2ZPuTBm"
-version = "l1pD4w5Q"
+version = "6sZzbHVD"
