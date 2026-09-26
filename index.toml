@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "d9444205ea788cc0ca3dd2721792362e91c66daf77ae8cd8adb8e7ef7d4b69d5"
+hash = "c081740dfb7b01c75d98c79a1fe31d40e207abaebb966f703674a4bf3122ae95"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "13ce1e1f341230ef4a1248e28df60fc604fbfdded7fc08118e83ce2d8e0e864b"
+hash = "4275df649b68e75bc11daf1087551cc5c8344be9bb02d761eb810961c4b1e89c"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/flashback.pw.toml"
-hash = "1e0f0c55c88d208fed732df5150720ab4560bbef3ccbcc610bc38a04515a2d77"
+hash = "db72954a4892acfbd63e8602b533eee1f55e584c7e5c29e820a398a65b5d6525"
 metafile = true
 
 [[files]]
