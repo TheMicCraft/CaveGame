@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "4275df649b68e75bc11daf1087551cc5c8344be9bb02d761eb810961c4b1e89c"
+hash = "3c3301ffe3888fac461d77fd613d5ebdd737e5ce20162bd559ac944f40587caf"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e243aee66d3bce50082e7d61936f535688002ea81d021d0808fd6cdd40b6bd66"
+hash = "6c77ab47932869f9a695fd00c116de2c098e9c9612c50aa4b33a7249c0fc57d2"
 metafile = true
 
 [[files]]
