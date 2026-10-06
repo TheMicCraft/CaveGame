@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "4bc52c277a02000d421f1c2ce77fb55292b9ed66a3b21bf340de8e64c42c979c"
+hash = "f77a27a2b369f4d6c11cf4f4825e6e1b0b0f32fa27219633286b4b935e56ff0e"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "1c66c4bc344e413a7bfe3fb677982b07c714db0fbcac0c6425c372d51074e965"
+hash = "1f4b13d5981a5de1ac0762d229106377820d74e12e600eb55222e67823dc9ea6"
 metafile = true
 
 [[files]]
@@ -412,10 +412,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "704db7b1a2db7f6713ae16aade245c3b31ba2c38577cb0a8e1cae4994784577b"
+hash = "305b27b26e8410932fd2d2eaf9a1fa9d1032bdc96cea97cdd0cb5944f4861afc"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "b469ff5d0587b0d6e1f77961a67d910383ee8a675472b92c7813d01f29f0830e"
+hash = "c510f96ed07e8234b542ca1b9942a35f6f6883cbadd83873f01a02e6ebaddc78"
 metafile = true
