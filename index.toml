@@ -16,6 +16,11 @@ hash = "03383af39971df22d4581de1a8b6c0e80c6ecfd53b16716b9fc8e52580070753"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "394030f614ec2081350023cc8f8b25f8210894bb8950da36f8364a8fe8893a6e"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "ca3ae2608987185814c118388f28057f729d866ee1abbc97f3650141d213fa35"
 metafile = true
@@ -41,8 +46,18 @@ hash = "8239e157127e07c15d971aa9b325534c7c932eb10c74d3e4a68b88846334b069"
 metafile = true
 
 [[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "b4cd1e372388fadea8346cb3e83ba043bbbb722d139d3ac4e56849c0bb46aade"
+metafile = true
+
+[[files]]
 file = "mods/better-fabric-console.pw.toml"
 hash = "d56276b1da625fd53afe0e6e736b5c3a2983303d4fd2ce687f2364e8ae4c3dab"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "8b1e7e1d6edd89356541f1c817f07d8cb1edc78bb5de22ad17b4adbc40ee1ee3"
 metafile = true
 
 [[files]]
@@ -58,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "f42e7c3e161d7734855264b73af110541eae4f83495f1c63ce31db31f1b6b1f6"
+metafile = true
+
+[[files]]
+file = "mods/bundles-beyond.pw.toml"
+hash = "e865705caa2379f6a457478eaf9d3dc4b605b8c912e2e94003ef632b9401395b"
 metafile = true
 
 [[files]]
@@ -111,8 +131,23 @@ hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "d8e2eb843f684b6abe48010c4ebf3e1300bd0fe9a4132e2744757d850171f4b7"
+metafile = true
+
+[[files]]
 file = "mods/convenient-mobgriefing.pw.toml"
 hash = "609951325ad6f885271831b6746c448e34c79854001f504d6549cd73aa1e0a9f"
+metafile = true
+
+[[files]]
+file = "mods/coolrain.pw.toml"
+hash = "70129d2d939c939fd1ff18adca8e728bd656fd2c1fc25485df197191e61ed8cd"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "93a6e53150e1d3b84b4fd08c01658617ad174c24d1b5afcc5b9e9e16888d7eb9"
 metafile = true
 
 [[files]]
@@ -123,6 +158,16 @@ metafile = true
 [[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "716b671d0b15ea17c788c571620eac83207bb2b6e8dbe0d33319838478f21efc"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "22850b371cb4d8e1d865522f3053363010e4ab2ebcf1fa0efdc492c49923c27e"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "481192fb349be87304022d2801bdf77be7082217fcdedf15a8f5da0a4e1a5ba5"
 metafile = true
 
 [[files]]
@@ -137,12 +182,17 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "0e45e8c4d0aa7c51e594468270b82789398fd69a13dfff44fe9f437819436212"
+hash = "fb983e5ea25f59adc0cfb77929585c165fbcf07578d7727448b329824f166fde"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "4dd6f6a5afe5874be14336b07a01d228cf3b06105301da41d68beee4b1d40c5b"
+metafile = true
+
+[[files]]
+file = "mods/esf.pw.toml"
+hash = "6119df378a5854e483eb4aa1f8f657e5190690889afc50f2dd017064826ad167"
 metafile = true
 
 [[files]]
@@ -221,6 +271,11 @@ hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "71255e25b05b6529d6a2873e4db079b7b6541f58a78d872bc19478afcb0ffd1c"
+metafile = true
+
+[[files]]
 file = "mods/lighty.pw.toml"
 hash = "49c9c961d38bc2447708fde546335cd699bd5c2a21dab3b18b7c82d53a4572ff"
 metafile = true
@@ -261,8 +316,13 @@ hash = "175fad0cfd06f64bd9bc69158253d16813d3bb144356247d45c21426389d05e3"
 metafile = true
 
 [[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "db026db2e6fb5b7f395646f39ccd40ed9b2937bf43e531335e103fcdae3b896c"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
-hash = "85b7612aaf49e6c2eac33697e6d909f2e94adadc50d0bc706d9a552a0ac95d51"
+hash = "89a5e6578337ec9aea7469bfa236dc633dfe58d06dbff4090bb33b1d4a7a9c56"
 metafile = true
 
 [[files]]
@@ -316,6 +376,11 @@ hash = "3750aa5e0f26b0a27ccd97ca1bdd38d05607789d24320e4837a8c128428eb070"
 metafile = true
 
 [[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "1e411e232197a430a4355d5c3e141bc2d41e26d2fd79f49b23f0c30ab21cc96d"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "c1248a05290a25430574bb5429189fd4dfe389bb7489b4b7f03b96094983d9b0"
 metafile = true
@@ -333,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "720bb2b33170f46ae5cbde5ee0d00284c592eb1fdeb8ae2de19d02d26f5f03a6"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "a17a9c598d984e4ff28d0945dd0e8bf94b3125b1d669226b4ad736543dacef3f"
 metafile = true
 
 [[files]]
@@ -371,6 +441,11 @@ hash = "6c77ab47932869f9a695fd00c116de2c098e9c9612c50aa4b33a7249c0fc57d2"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "19f9479c1a4b9e5dee34eab19bcb54944a2044f69e58408fb85e7d1d5ce333dd"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "b208eb7f627fcb010bcc49ba385cf59e7073203e24438fa3a9d2d566aae354c5"
 metafile = true
@@ -401,6 +476,11 @@ hash = "5edd76687dda7b292c8c0d555c5b9b8e0f713715648d41286bcf37f4b1958798"
 metafile = true
 
 [[files]]
+file = "mods/visuality.pw.toml"
+hash = "c2d60fe1718d4d8e8a9102dc18cebfd9ccf0ac761d6ab3b8c00acec2a3c0271d"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "62b351fa55e61a36efa5530ea2dcbbbf8662ac791e42656fc28cef6d6918e623"
 metafile = true
@@ -418,4 +498,14 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "c510f96ed07e8234b542ca1b9942a35f6f6883cbadd83873f01a02e6ebaddc78"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "4c1f9c2dd215d39639501bcf7e87927ea2307dc161a4f59000ab445ccc311f8d"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "0d3405e537262b4afe76df6c9a884d1a7acbf5b6152109f4cc14b76a3551af7b"
 metafile = true
