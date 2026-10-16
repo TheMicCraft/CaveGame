@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "f77a27a2b369f4d6c11cf4f4825e6e1b0b0f32fa27219633286b4b935e56ff0e"
+hash = "bcdef89fa1ed3b700771e193f64cb0bbfb380111f135b8283dd2d01e2b06601f"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "4dd6f6a5afe5874be14336b07a01d228cf3b06105301da41d68beee4b1d40c5b"
+hash = "bd7f9aadd2352aadb444071e7dc5817e90374020e4a138abf9886578b65c6e95"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "9cb1e4340924825f762e02955ca6bd82aa8ef92d16e929272275b77266ecdbbf"
+hash = "e5fa9c496aa310e146b51f5f06124493b5e4dd79f3d5a5a1428b394a71b947f5"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "870185bf715ea455de7f79efb3575919ff2dde7a939ba2194f897b911a66cad7"
+hash = "2d7ddf82aec31f354a784ec6ebd94e55ae53f5fd85dbed21f78c0fe87f697232"
 metafile = true
 
 [[files]]
