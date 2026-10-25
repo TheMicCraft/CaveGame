@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "982801b4473e11e6f8c5899f18a260515239dfce397c650c6920fc6ae03f6abb"
+hash = "eea438809609e7d82834cd660f7862bebe13bbb8dd014c7db5e120c2c7f53b52"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "879c9611f8612238be3bc283198b92ce73b124fecdab7786223e250a25266009"
+hash = "60365d9337ed6bdb49f7f31808b2e61543ce121df41ec6251503400988bf39d4"
 metafile = true
 
 [[files]]
