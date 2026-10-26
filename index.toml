@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "88575cfa88a3807c29978322ad07f01209996ba1823035bad7af8e74a7df9159"
+hash = "5ff8e394478f56b131ef90b797a3b4a273c9c4faaa4853dd1289c7ebddda111a"
 metafile = true
 
 [[files]]
@@ -492,12 +492,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "305b27b26e8410932fd2d2eaf9a1fa9d1032bdc96cea97cdd0cb5944f4861afc"
+hash = "390d30f9842a7f49c2341b157076e65771df2b96f77ebffbc36eb4bc5962693c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "c510f96ed07e8234b542ca1b9942a35f6f6883cbadd83873f01a02e6ebaddc78"
+hash = "0b8707681b7da3f947697f6fa9ab72c74ff3e8beb7a8fb78761bcf5a82c421fc"
 metafile = true
 
 [[files]]
