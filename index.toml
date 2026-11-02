@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "048eea426bd260c6afe99265f7daa16e7afd1f527168cd8ccac7cb8adaabcf31"
+hash = "2f342717c2027ea1cba55465ad96ef647368f735963581285b5958f6204de68c"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "ab0cc7485ef34fb59d1880d7d7fadb8db29a268f76bf56080ea69bfa616d6e18"
+hash = "956d704def3ad330245d1f25a62b06a1200dbd3559eae43b06e8b70ae51a2b17"
 metafile = true
 
 [[files]]
