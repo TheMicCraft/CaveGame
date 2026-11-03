@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "2f342717c2027ea1cba55465ad96ef647368f735963581285b5958f6204de68c"
+hash = "7fe4017e12d1332cd41aeb38e0e7eab9c4a965be4a0e8a8664eecae495225686"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "e5fa9c496aa310e146b51f5f06124493b5e4dd79f3d5a5a1428b394a71b947f5"
+hash = "5dc3e3d9d460977e5f53aa0564805441676cca5a0381272ee26c01cfd71256be"
 metafile = true
 
 [[files]]
