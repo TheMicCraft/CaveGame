@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-restrictions.pw.toml"
-hash = "8ddf91f7bd939217adb3cd935f56c174dc47a72267be6ea093757da493c5a3b9"
+hash = "7ea3b964072c947cf0740d3a1f16903b8c51ab44844462e956ccec794b40c0c3"
 metafile = true
 
 [[files]]
