@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "cd25851cbdaad2dd1957a8086ce54aa4bd3c45be75e1ba49168a54fafbd87898"
+hash = "4c184cc22ddd7c76591458eacf28051cc2c0f24b687a98cac31f9890cccb7851"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "5446f7c87a901a797fbbc0079982b9680a960ae6dae2ca3669694d4a38b1871f"
+hash = "75a158dfb967e78341deb566df52725e412bc7ed228a0e9b98e3ec942df0ff0b"
 metafile = true
 
 [[files]]
