@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "785411e12cddc05766782124d70a944814b908686de4799738609ee2eeda350a"
+hash = "97899e6c362548b67f111f69a2288f9305e05fefa25a8a23d7bcf6a355aeb628"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "c8536cf6719076ed5ff9cf2c0958a5f14c4161578d44ed15f0a9e9741bd1d46d"
+hash = "4e2db1332578f5a5f3c2286f088d784e458cd6c816d6e7f9ca7080ba42cf9b62"
 metafile = true
 
 [[files]]
@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-music-control.pw.toml"
-hash = "71f9f7a0075446db18e029404ae8378ce7f807483ab3ea61393b7636ca50c0e0"
+hash = "c22445aa9e9e2c5c32442c38f54d24ff2188372ebf2420b4b35e338dac1e63e4"
 metafile = true
 
 [[files]]
@@ -432,12 +432,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "5ff8e394478f56b131ef90b797a3b4a273c9c4faaa4853dd1289c7ebddda111a"
+hash = "2b76f879529feaf1b1b608c4c5d238359aebc2a2708e19911565518918ffd213"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e243aee66d3bce50082e7d61936f535688002ea81d021d0808fd6cdd40b6bd66"
+hash = "605d4ac82209c93741fae80b5bc07cae82be0c348187aeb30cbba4809eb88268"
 metafile = true
 
 [[files]]
