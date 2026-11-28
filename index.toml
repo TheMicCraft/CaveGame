@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "b1da0da68d68d16a7dc1be181d914b607d4d4c6466429e089af2c6b1d73c6146"
+hash = "86a7f983da8a5766adc8abdb986e1980dab2ece6bfe811852947dc9e82d45f9a"
 metafile = true
 
 [[files]]
